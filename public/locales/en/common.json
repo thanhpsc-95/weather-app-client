@@ -1,0 +1,11 @@
+{
+    "date": "Date",
+    "temperatureC": "Temperature C",
+    "temperatureF": "Temperature F",
+    "summary": "Summary",
+    "Hot": "Hot",
+    "Scorching": "Scorching",
+    "Sweltering": "Sweltering",
+    "Cool": "Cool",
+    "Cold": "Cold"
+}

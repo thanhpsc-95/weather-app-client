@@ -1,0 +1,12 @@
+{
+    "date": "Ngày",
+    "temperatureC": "Độ C",
+    "temperatureF": "Độ F",
+    "summary": "Tổng hợp",
+    "Hot": "Nóng",
+    "Scorching": "Rất nóng",
+    "Sweltering": "Oi ả",
+    "Cool": "Mát",
+    "Cold": "Lạnh",
+    "Warm":"Ấm"
+}
