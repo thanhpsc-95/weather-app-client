@@ -3,6 +3,6 @@
         "node_modules{,/**}",
         ".vscode{,/**}"
     ],
-    "appService.defaultWebAppToDeploy": "/subscriptions/7405992d-5102-47e6-92c2-865ea79be214/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/weather-app-client",
-    "appService.deploySubpath": "."
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/7405992d-5102-47e6-92c2-865ea79be214/resourceGroups/web-asia/providers/Microsoft.Web/sites/weather-client-app"
 }
